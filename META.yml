@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Skype message delivery by HTTP'
 author:
   - 'Takumi Akiyama <t.akiym at gmail.com>'
 build_requires:
@@ -28,4 +28,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/akiym/p5-App-Tacochan.git
-version: 0.02
+version: 0.03
