@@ -21,11 +21,13 @@ no_index:
     - t
     - xt
 requires:
+  JSON: 2.53
   Plack::Builder::Conditionals: 0
   Plack::Middleware::ReverseProxy: 0
   Skype::Any: 0.03
   Twiggy: 0
+  URI: 1.60
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/akiym/p5-App-Tacochan.git
-version: 0.03
+version: 0.04
